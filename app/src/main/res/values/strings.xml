@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">抢钱</string>
+    <string name="service_name">LuckyMoneyRobot</string>
+
+    <string name="main_menu_about">关于</string>
+    <string name="main_menu_about_title">抢钱1.1.2</string>
+    <string name="main_menu_about_ok_button">好的</string>
+    <string name="main_menu_about_message">一个自动抢微信红包的小工具\n\nby gknows</string>
+
+    <string name="main_menu_register">注册</string>
+    <string name="main_menu_register_button">确认</string>
+    <string name="main_menu_register_message">抢钱(已注册)</string>
+    <string name="main_menu_register_hint">注册码</string>
+    <string name="main_menu_register_success">注册成功</string>
+    <string name="main_menu_register_try">抢钱(试用版)</string>
+
+    <string name="hello_world">步骤1. 点击按钮，打开辅助功能服务; \n\n步骤2. 在服务中开启LuckyMoneyRobot;\n\n步骤3. 微信群消息免打扰状态需要关闭!\n\n提示：注册版无弹窗干扰，可以在系统锁屏下抢红包，但需要关闭锁屏密码！</string>
+    <string name="action_settings">Settings</string>
+    <string name="accessibility_help">请打开这项服务，要不然抢不了红包啊！</string>
+
+    <string name="service_connect_success">抢钱服务连接成功</string>
+    <string name="service_connect_interrupt">抢钱服务连接断开</string>
+</resources>
